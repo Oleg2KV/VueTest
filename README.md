@@ -1,4 +1,5 @@
 # Detached elements
+When developing a project using the Vue framework, we faced excessive memory consumption when displaying a large amount of data on the page.
 
 When looking for a problem, we noticed the following.
 
